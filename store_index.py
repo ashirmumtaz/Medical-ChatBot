@@ -8,7 +8,7 @@ import os
 
 load_dotenv()
 PINECONE_API_KEY=os.environ.get('PINECONE_API_KEY')
-os.environ["PINECONE_API_KEY"]="78d6dda4-ba2b-412e-9ebe-64c5a3fd3e27"
+os.environ["PINECONE_API_KEY"]="Your Api Key"
 
 
 extracted_data = load_pdf_file(data="Data/")
