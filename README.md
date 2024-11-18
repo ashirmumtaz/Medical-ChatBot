@@ -14,3 +14,6 @@ This project implements a medical chatbot using the GROQ query language to acces
 * **Contextual Understanding:** Improve the chatbot's ability to maintain context throughout the conversation.
 * **Personalized Responses:** Tailor responses to individual user needs and preferences.
 * **Ethical Considerations:** Implement safeguards to prevent the dissemination of harmful or misleading medical information.
+
+## Preview
+![image](preview.png)
